@@ -14,6 +14,8 @@
   Demotivatoren (die Herzberg'schen Hygienefaktoren) abhalten, die Ziele zu
   verfolgen.
 
+![Meine tolle Grafik](img1.png)
+
 ---
 
 - Neu entdeckt habe ich die "Anti Drivers". Diese stehen den "Drivers" gegenüber
